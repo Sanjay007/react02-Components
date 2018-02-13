@@ -1,12 +1,12 @@
 {
-  "name": "glarimy-reactjs-02",
+  "name": "reactjs-02",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --hot"
   },
-  "author": "Krishna Mohan Koyya",
+  "author": "Sanjay yadav",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.26.0",
