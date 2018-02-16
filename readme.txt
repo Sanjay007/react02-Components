@@ -1,4 +1,6 @@
-readme.txt
+====================== Vist http://frugalisminds.com/react-js/react-js-setup-using-npm-babel-and-webpack/ =============================
+====================== Youtube :- https://www.youtube.com/watch?v=rynKjEl6GCY =========================================================
+----------------------Installation of React along with Webpack------------------
 install nodejs along with npm
 npm install -g babel
 npm install -g babel-cli
